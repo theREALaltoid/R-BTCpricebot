@@ -17,8 +17,8 @@
     "type": "git",
     "url": "git+https://github.com/TheTRUEHoohah/R-BTCpricebot.git"
   },
-  "author": "theTRUEhooha",
-  "license": "ISC",
+  "author": "theTRUEhoohah",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/TheTRUEHoohah/R-BTCpricebot/issues"
   },
